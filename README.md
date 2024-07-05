@@ -5,7 +5,7 @@ The emergence of "unicorn" companies, private startups valued at over $1 billion
 <br>
 The evolution of unicorn companies from 1919 to 2022 represents a transformative force in the global economy, reshaping industries, driving innovation, and attracting unprecedented levels of investment. By understanding the factors driving their growth and success, policymakers, investors, and entrepreneurs can better navigate the opportunities and challenges presented by the unicorn phenomenon. This analysis provides valuable insights into the past, present, and future of unicorn companies and their impact on the world economy.
 <br>
-# Dataset
+## Dataset
 
 The dataset contains 10 columns and 1,075 columns, here's a breakdown of what each column represents:
 <br>
@@ -20,7 +20,8 @@ The dataset contains 10 columns and 1,075 columns, here's a breakdown of what ea
 9) Funding: This column contains information about the total funding raised by each unicorn company, which represents the cumulative amount of investment capital received from investors. <br>
 10) Select Investors: This column contains the names of notable investors or investment firms that have provided funding to each unicorn company. It may include venture capital firms, private equity investors, or other institutional investors.
 <br>
-# Project Analysis
+
+## Project Analysis
 
 1) Most Unicorns came from the USA i.e. 561 followed by China(173) & India(65). <br>
 2) Bytedance sits at the top of the most valued Unicorns with a valuation of $180Bn, Shein and SpaceX follows with $100Bn, Stripe comes next with $95Bn. <br>
