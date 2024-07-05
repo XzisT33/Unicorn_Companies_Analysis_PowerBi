@@ -9,15 +9,15 @@ The evolution of unicorn companies from 1919 to 2022 represents a transformative
 
 The dataset contains 10 columns and 1,075 columns, here's a breakdown of what each column represents:
 <br>
-Company: This column contains the names of the unicorn companies included in the dataset.
-Valuation: This column contains the valuation of each unicorn company, measured in terms of billion dollars ($1 billion or more), which represents the estimated worth of the company in the market.
-Date Joined: This column contains the date when each company achieved unicorn status, which means the date when their valuation exceeded $1 billion.
-Industry: This column contains the industry or sector to which each unicorn company belongs. It specifies the primary area of business or the market in which the company operates.
-City: This column contains the city where each unicorn company is headquartered or has a significant presence.
-Country: This column contains the country where each unicorn company is based or founded.
-Continent: This column contains the continent where each unicorn company's country is located.
-Year Founded: This column contains the year when each unicorn company was established or founded.
-Funding: This column contains information about the total funding raised by each unicorn company, which represents the cumulative amount of investment capital received from investors.
+Company: This column contains the names of the unicorn companies included in the dataset. <br>
+Valuation: This column contains the valuation of each unicorn company, measured in terms of billion dollars ($1 billion or more), which represents the estimated worth of the company in the market. <br>
+Date Joined: This column contains the date when each company achieved unicorn status, which means the date when their valuation exceeded $1 billion. <br>
+Industry: This column contains the industry or sector to which each unicorn company belongs. It specifies the primary area of business or the market in which the company operates. <br>
+City: This column contains the city where each unicorn company is headquartered or has a significant presence. <br>
+Country: This column contains the country where each unicorn company is based or founded. <br>
+Continent: This column contains the continent where each unicorn company's country is located. <br>
+Year Founded: This column contains the year when each unicorn company was established or founded. <br>
+Funding: This column contains information about the total funding raised by each unicorn company, which represents the cumulative amount of investment capital received from investors. <br>
 Select Investors: This column contains the names of notable investors or investment firms that have provided funding to each unicorn company. It may include venture capital firms, private equity investors, or other institutional investors.
 <br>
 # Project Analysis
