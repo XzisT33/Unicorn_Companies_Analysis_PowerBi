@@ -21,7 +21,7 @@ The dataset contains 10 columns and 1,075 columns, here's a breakdown of what ea
 10) Select Investors: This column contains the names of notable investors or investment firms that have provided funding to each unicorn company. It may include venture capital firms, private equity investors, or other institutional investors.
 <br>
 # Project Analysis
-<br>
+
 1) Most Unicorns came from the USA i.e. 561 followed by China(173) & India(65). <br>
 2) Bytedance sits at the top of the most valued Unicorns with a valuation of $180Bn, Shein and SpaceX follows with $100Bn, Stripe comes next with $95Bn. <br>
 3) The Fintech Industry tops this list in terms of Total Fundings with $108Bn, E-Commerce at $74Bn, while Internet Software at $73Bn. <br>
