@@ -26,7 +26,8 @@ The dataset contains 10 columns and 1,075 columns, here's a breakdown of what ea
 3) The Fintech Industry tops this list in terms of Total Fundings with $108Bn, E-Commerce at $74Bn, while Internet Software at $73Bn. <br>
 4) Top 3 Continents in terms of distribution of Unicorns are North America with 56% , followed by Asia (29.75%) & Europe (13.72%). <br>
 5) 2022 saw a downward trend and a decline in the number of Companies that emerged as Unicorns with 112 Companies joining. This downward trend can be attributed to the negative effects of the pandemic which 
-   slowed down consumer spending and this resulted to decreased investment. The effect of this also came as a result of the volatility in the financial markets which made it difficult for startups to raise capital. <br>
+   slowed down consumer spending and this resulted to decreased investment. The effect of this also came as a result of the volatility in the financial markets which made it difficult for startups to raise 
+   capital. <br>
 
    There are various other insights which I have uncovered through the dashboard which I am not listing here. Feel free to check out the dashboard and for a particular unicorn details I have also added a slicer which will give you all the details you need in just a click !! So do check it out !! <br>
 ![Unicorn_Companies_Analysis_pb](https://github.com/XzisT33/Unicorn_Companies_Analysis_PowerBi/assets/102463413/b6391afe-89b2-43ae-ace7-d943d0628a3b)
