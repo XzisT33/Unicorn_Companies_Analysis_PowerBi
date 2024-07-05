@@ -2,8 +2,11 @@
 
 The emergence of "unicorn" companies, private startups valued at over $1 billion, has reshaped the global economy and investment landscape. This data analysis project aims to explore the evolution, evolvement, and growth of these unicorns from 1919, marking the inception of the first unicorn, through to 2021. By analyzing historical data, trends, and significant events, this project seeks to provide insights into the factors contributing to the rise of unicorn companies and their impact on various industries and economies.
 <br>
+<br>
 The evolution of unicorn companies from 1919 to 2022 represents a transformative force in the global economy, reshaping industries, driving innovation, and attracting unprecedented levels of investment. By understanding the factors driving their growth and success, policymakers, investors, and entrepreneurs can better navigate the opportunities and challenges presented by the unicorn phenomenon. This analysis provides valuable insights into the past, present, and future of unicorn companies and their impact on the world economy.
 <br>
+# Dataset
+
 The dataset contains 10 columns and 1,075 columns, here's a breakdown of what each column represents:
 <br>
 Company: This column contains the names of the unicorn companies included in the dataset.
